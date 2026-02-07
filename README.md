@@ -1,5 +1,14 @@
 # iMessage Exporter
 
+[![GitHub release](https://img.shields.io/github/release/dreambigcapital/imessage-exporter.svg)](https://github.com/dreambigcapital/imessage-exporter/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![macOS](https://img.shields.io/badge/macOS-10.14+-blue.svg)](https://www.apple.com/macos)
+[![Python](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
+
+Export your iMessage conversations to beautiful HTML files with all attachments preserved.
+
+![iMessage Exporter Demo](https://img.shields.io/badge/Tested-76k+%20messages-success)
+![Contacts](https://img.shields.io/badge/Contacts-1100+%20supported-blue)
 Export your iMessage conversations to beautiful HTML files with all attachments preserved.
 
 ## ✨ Features
